@@ -1,0 +1,1 @@
+link deploy milestone 2: https://inipedia-nlp-model.herokuapp.com/
